@@ -1,0 +1,12 @@
+# Link this repo to your cloud project:
+#   npx supabase login
+#   npx supabase link --project-ref YOUR_PROJECT_REF
+#   npx supabase db push
+
+project_id = ""
+
+[api]
+enabled = true
+
+[db]
+major_version = 15
